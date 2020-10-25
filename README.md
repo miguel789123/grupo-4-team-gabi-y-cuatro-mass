@@ -13,7 +13,7 @@ https://docs.google.com/presentation/d/1uKhQmgpXIzu8YRAkTk7pHt6IxN7pdkDZYi9UCLL-
 - **Quintanilla Portugal Roxana Lisette** [Roxana](https://github.com/nitanilla "Roxana")
 #### Trabajo:
 - Documentar y entender el juego
-- Elegimos un juego llamado game space
+- Elegimos un juego llamado SPACE GAME
 #### Colaboradores:
 - **Gabriela Farfan Enriquez** [Gabi](https://github.com/gabrielafarfan1)
 - **Miguel Angel Quispe Jimenes** [Miguel](https://github.com/miguel7891223 "Miguel")
