@@ -35,10 +35,12 @@ https://docs.google.com/presentation/d/1uKhQmgpXIzu8YRAkTk7pHt6IxN7pdkDZYi9UCLL-
 
 ## Introcucción:
 El proyecto de SPACE GAME nace a partit de una tarea del curso de gráfica I en el que se quiere poner en practica la XXXXXXX 2D, para el cual utilizo Python y openGL.
+
 ##Requisitos:
 - Es recomendable tener conocimientos previos de matemáticas sobretodo de geometría y de álgebra.
 - Un ordenador con conexión a internet para poder instalar todo el software y descargar todo el material.
 - Es recomendable contar con conocimientos básicos de programación en python y openGL.
+
 ##Descripción
 Bienvenidos al repositorio de "Gabi y 4 más" te invitamos a que revises el codigo de SPACE GAME. Este es un juego sencillo implementaado en python. 
 Para ejecutar el juego, solo se debe descargar desde la opcion en la parte superior que dice descargar como zip, o clonar el repositorio como se muestra en la sección Clonar Repositorio. Una vez Hecho eso seria correr el archivo del juego necesario, generalmente terminado en extension .xxxxxxxxxx de la carpeta del juego deseado.
