@@ -45,13 +45,14 @@ El proyecto de SPACE GAME nace a partit de una tarea del curso de gráfica I en 
 Bienvenidos al repositorio de "Gabi y 4 más" te invitamos a que revises el codigo de SPACE GAME. Este es un juego sencillo implementaado en python. 
 Para ejecutar el juego, solo se debe descargar desde la opcion en la parte superior que dice descargar como zip, o clonar el repositorio como se muestra en la sección Clonar Repositorio. Una vez Hecho eso seria correr el archivo del juego necesario, generalmente terminado en extension .xxxxxxxxxx de la carpeta del juego deseado.
 A todos los que les guste la programación y quieran enfocarlo al sector de videojuegos.
-Te esperamos en el curso, un saludo y Muchas gracias.
+Te esperamos, un saludo y Muchas gracias.
 
 ### Documentación
 -El primer día diseñamos los posibles personajes del juego
 -Definimos las idea principal del juego
 -Investigamos más sobre como de hacen juegos en python.
+
 ### Trabajo:
-Entender el juego elegimos un juego llamado SPACE GAME
+(Entender el juego) Elegimos un juego que le llamamos SPACE GAME
 ### Contribuir
 Si deseas contribuir con Game SPACE envianos tu propuesta a [Email](http://163525@unsaac.edu.pe "Email") o a XXXXXXXX
