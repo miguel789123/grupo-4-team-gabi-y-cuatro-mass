@@ -27,7 +27,7 @@ https://docs.google.com/presentation/d/1uKhQmgpXIzu8YRAkTk7pHt6IxN7pdkDZYi9UCLL-
 - Lenguaje:  Python
 [Obtener Python](https://www.python.org/downloads/)
 
-###Herramientas:
+### Herramientas:
 - Python
 - OpenGL
 - Github, Git
@@ -43,7 +43,7 @@ El proyecto de SPACE GAME nace a partit de una tarea del curso de gráfica I en 
 
 ## Descripción
 Bienvenidos al repositorio de "Gabi y 4 más" te invitamos a que revises el codigo de SPACE GAME. Este es un juego sencillo implementaado en python. 
-Para ejecutar el juego, solo se debe descargar desde la opcion en la parte superior que dice descargar como zip, o clonar el repositorio como se muestra en la sección Clonar Repositorio. Una vez Hecho eso seria correr el archivo del juego necesario, generalmente terminado en extension .xxxxxxxxxx de la carpeta del juego deseado.
+Para ejecutar el juego, solo se debe descargar desde la opcion en la parte superior que dice descargar como zip, o clonar el repositorio como se muestra en la sección Clonar Repositorio. Una vez Hecho eso seria correr el archivo del juego necesario, generalmente terminado en extension .py de la carpeta del juego deseado.
 A todos los que les guste la programación y quieran enfocarlo al sector de videojuegos.
 Te esperamos, un saludo y Muchas gracias.
 
