@@ -48,10 +48,10 @@ Te esperamos, un saludo y Muchas gracias.
 [![nave](git "nave")](https://github.com/miguel789123/grupo-4-team-gabi/blob/main/nave%20espacial.png "nave")
 
 ### Documentación
--El primer día diseñamos los posibles personajes del juego
--Definimos las idea principal del juego
--Investigamos más sobre como de hacen juegos en python.
--Agregamos las funciones respectivas para graficar los monstros y la nave.
+  -El primer día diseñamos los posibles personajes del juego
+  -Definimos las idea principal del juego
+  -Investigamos más sobre como de hacen juegos en python.
+  -Agregamos las funciones respectivas para graficar los monstros y la nave.
 -Cambiamos el diseño de los graficos del juego.
 -Agregamos las funciones de movimiento en la nave.
 -Agregamos las funciones de movimiento en los monstruos.
