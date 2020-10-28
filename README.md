@@ -42,7 +42,7 @@ El proyecto de SPACE GAME nace a partit de una tarea del curso de gráfica I en 
 - Es recomendable contar con conocimientos básicos de programación en python y openGL.
 
 ## Descripción
-Bienvenidos al repositorio de "Gabi y 4 más" te invitamos a que revises el codigo de SPACE GAME. Este es un juego sencillo implementaado en python y para ejecutar el juego, solo se debe descargar desde la opcion en la parte superior que dice descargar como zip, o clonar el repositorio como se muestra en la sección Clonar Repositorio.
+Bienvenidos al repositorio de "Gabi y 4 más", te invitamos a que revises el codigo de SPACE GAME. Este es un juego sencillo implementado en python y para ejecutar el juego, solo se debe descargar desde la opcion en la parte superior que dice descargar como zip, o clonar el repositorio como se muestra en la sección Clonar Repositorio.
 Una vez Hecho eso seria correr el archivo del juego necesario, generalmente terminado en extension .py de la carpeta del juego deseado. A todos los que les guste la programación y quieran enfocarse al sector de videojuegos.
 Te esperamos, un saludo y Muchas gracias.
 [![nave](git "nave")](https://github.com/miguel789123/grupo-4-team-gabi/blob/main/nave%20espacial.png "nave")
@@ -58,7 +58,7 @@ Te esperamos, un saludo y Muchas gracias.
 -Revisamos tutoriales en youtuve y documentación, para poder implementar la programación de eventos con la libreria pygame.
 -Implementamos el control de movimiento mediante el teclado.
 -Implementamos las fuciones de disparo.
--Implementamos las funcines de colición. 
+-Implementamos las funciones de colición. 
 ### Trabajo:
 Elegimos un juego al que llamamos SPACE GAME
 -Vamos a tener un main, donde haremos uso de las librerias a usar, definiremos nuestras funciones de colición, reset game. Al igual que las variables vida disco y los tiros.
