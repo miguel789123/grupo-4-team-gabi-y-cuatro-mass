@@ -61,7 +61,11 @@ Te esperamos, un saludo y Muchas gracias.
 -Implementamos las funcines de colición. 
 ### Trabajo:
 Elegimos un juego al que llamamos SPACE GAME
+-Vamos a tener un main, donde haremos uso de las librerias a usar, definiremos nuestras funciones de colición, reset game. Al igual que las variables vida disco y los tiros.
+-Se definió la clase invaders, en el cual graficamos mediante matrices a nuestra nave enemiga, en posicion uno y dos; el disco, la explosión y la nave con la que jugaremos.
+-Estas personajes se pintará pixel por pixel, cuadn el valor de m[i][j]=1
 -El juego inicia al presionar la tecla enter.
 -Se dispara al presionar la tecla espacio.
+-La nave con la que jugaremos tiene 4 vidas.
 ### Contribuir
 Si deseas contribuir con Game SPACE envianos tu propuesta.
