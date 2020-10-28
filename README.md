@@ -48,17 +48,17 @@ Te esperamos, un saludo y Muchas gracias.
 [![nave](git "nave")](https://github.com/miguel789123/grupo-4-team-gabi/blob/main/nave%20espacial.png "nave")
 
 ### Documentación
-  -El primer día diseñamos los posibles personajes del juego
-  -Definimos las idea principal del juego
-  -Investigamos más sobre como de hacen juegos en python.
-  -Agregamos las funciones respectivas para graficar los monstros y la nave.
--Cambiamos el diseño de los graficos del juego.
--Agregamos las funciones de movimiento en la nave.
--Agregamos las funciones de movimiento en los monstruos.
--Revisamos tutoriales en youtuve y documentación, para poder implementar la programación de eventos con la libreria pygame.
--Implementamos el control de movimiento mediante el teclado.
--Implementamos las fuciones de disparo.
--Implementamos las funcines de colición. 
+- Empezamos diseñando los posibles personajes del juego.
+- Definimos las idea principal del juego.
+- Investigamos más sobre como de hacen juegos en python.
+- Agregamos las funciones respectivas para graficar los monstros y la nave.
+- Cambiamos el diseño de los graficos del juego.
+- Agregamos las funciones de movimiento en la nave.
+- Agregamos las funciones de movimiento en los monstruos.
+- Revisamos tutoriales en youtuve y documentación, para poder implementar la programación de eventos con la libreria pygame.
+- Implementamos el control de movimiento mediante el teclado.
+- Implementamos las fuciones de disparo.
+- Implementamos las funcines de colición. 
 ### Trabajo:
 Elegimos un juego al que llamamos SPACE GAME
 -Vamos a tener un main(principal), donde haremos uso de las librerias que vamos a usar, definiremos nuestras funciones de colición, reset game. Al igual que las variables vida, disco y los tiros.
