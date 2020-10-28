@@ -48,7 +48,8 @@ Te esperamos, un saludo y Muchas gracias.
 [![nave](git "nave")](https://github.com/miguel789123/grupo-4-team-gabi/blob/main/nave%20espacial.png "nave")
 
 ### Documentación
-- Empezamos diseñando los posibles personajes del juego.
+- Empezamos diseñando los posibles personajes del juego. 
+[![Nave Principal](GitHub "Nave Principal")](https://github.com/miguel789123/grupo-4-team-gabi/blob/main/nuestra_Navee.jpeg "Nave Principal") [![Nave Enemiga](GitHub "Nave Enemiga")](https://github.com/miguel789123/grupo-4-team-gabi/blob/main/nave_enemiga_posicion_2.jpeg "Nave Enemiga")[![Explosión](GitHub "Explosión")](https://github.com/miguel789123/grupo-4-team-gabi/blob/main/MatrizExplosion.jpg "Explosión")
 - Definimos las idea principal del juego.
 - Investigamos más sobre como de hacen juegos en python.
 - Agregamos las funciones respectivas para graficar los monstros y la nave.
