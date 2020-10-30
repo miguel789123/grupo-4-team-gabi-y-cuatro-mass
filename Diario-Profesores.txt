@@ -1,3 +1,15 @@
 07 Oct - presentacion idea de juego. Nota 16 (ver rubrica)
 15 Oct - no tienen codigo, los 4 contribuyen en Github. No presentaron en clase. Nota 14 
+23 oct - no presentaron
 
+28Oct
+publicable
+jugable
+explosion es con pygame
+solo traslación
+
+30Oct
+falta orden en los archivos
+Julinho no figura como contribuidor
+no puede estar en .rar el juego, coloquen los py
+no usaron la libraria realizada en clase
