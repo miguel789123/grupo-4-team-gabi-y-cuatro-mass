@@ -70,6 +70,6 @@ Elegimos un juego al que llamamos SPACE GAME
 ### Link del juego, publicado en youtube:
 -https://www.youtube.com/watch?v=3zddwS7fRdM&feature=youtu.be
 ### Mejoras
--añadimos el movimiento en el eje Y
--añadios movimiento en diagonal
--el disco que aparece en la parte superior ahora puede ser destruido
+- Añadimos el movimiento en el eje Y
+- Añadimos movimiento en diagonal
+- El disco que aparece en la parte superior ahora puede ser destruido
