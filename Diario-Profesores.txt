@@ -12,4 +12,5 @@ solo traslación
 falta orden en los archivos
 Julinho no figura como contribuidor
 no puede estar en .rar el juego, coloquen los py
-no usaron la libraria realizada en clase
+no usaron la libraria realizada en clase 
+mejorar ortografia del Readme
