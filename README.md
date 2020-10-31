@@ -67,4 +67,5 @@ Elegimos un juego al que llamamos SPACE GAME
 - La nave con la que jugaremos tiene 4 vidas.
 - Para la nave enemiga se hará uso de for loops, esto para poder multiplicar nuestras naves enemigas. También vimos que se dibujó a la nave enemiga en dos posiciones, como están en las figuras (nave enemiga posición1 y nave enemiga posición 2), esto para poder intercambiar aleatoriamente "la nave enemiga posición 1 y nave enemiga posición 2" y se pueda ver en el juego que la nave enemiga se mueva aleteando y mostrando su cañon.
 - Cuando la nave enemiga  reciba una bala(shot) de nuestra nave, se intercambiará la figura de la nave enemiga mostrando la explosión.
-
+### Link del juego, publicado en youtube:
+-https://www.youtube.com/watch?v=3zddwS7fRdM&feature=youtu.be
