@@ -69,3 +69,7 @@ Elegimos un juego al que llamamos SPACE GAME
 - Cuando la nave enemiga  reciba una bala(shot) de nuestra nave, se intercambiará la figura de la nave enemiga mostrando la explosión.
 ### Link del juego, publicado en youtube:
 -https://www.youtube.com/watch?v=3zddwS7fRdM&feature=youtu.be
+### Mejoras
+-añadimos el movimiento en el eje Y
+-añadios movimiento en diagonal
+-el disco que aparece en la parte superior ahora puede ser destruido
